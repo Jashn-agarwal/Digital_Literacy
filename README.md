@@ -2,7 +2,7 @@
 
 ## 👤 Student Details  
 **Name:** Jashn Agarwal  
-**Registration Number:** [Your Reg No.]  
+**Registration Number:** 25BAC10012  
 **Branch:** B.Tech Electronics and Communication Engineering  
 **Year:** First Year  
 **Course Code:** CSE0001  
@@ -61,7 +61,7 @@ Set up and updated profiles on GitHub, LinkedIn, and HackerRank to build a profe
 - Completed a beginner coding challenge on HackerRank  
 - Created a Google Form quiz on Digital Literacy and analyzed responses  
 
-👉 **Google Form Link:** [Paste your form link here]
+👉 **Google Form Link:** (https://docs.google.com/forms/d/e/1FAIpQLSe4XD8zlHxPkzDuLLPKwqCgKD2uJNFofuPzaz3smcG48rmZ1A/viewform?usp=publish-editor)
 
 ---
 
